@@ -1,13 +1,6 @@
 ## Artanis GitHub Website
 
-<<<<<<< HEAD
-Open the [AHL Documentation](https://artanisx.github.io/AHLDocs)
-
-
-You can use the [editor on GitHub](https://github.com/Artanisx/artanisx.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-=======
 Welcome to my GitHub website. This page is fairly recent (26/07/2017) and its purpose for now is to be a repository for AHL documentation.
->>>>>>> Dev
 
 In the future it is more than likely I'll use this page not only for documentation of all my programming projects (using the wonderful [Sandcastle Help File Builder](https://github.com/EWSoftware/SHFB), but also in general for web pages and Wiki.
 
