@@ -15,4 +15,4 @@ I have a personal blog which can be reached [clicking here](https://artanisx.wor
 
 ### Info
 
-Since I'm still new using Github Desktop and Github Pages (and in general Git, as up until know I've used GUI for it), I'm keeping tabs of all operations using [this page](notes.md).
+Since I'm still new using Github Desktop and Github Pages (and in general Git, as up until know I've used GUI for it), I'm keeping tabs of all operations using [this page](https://artanisx.github.io/notes.html).
