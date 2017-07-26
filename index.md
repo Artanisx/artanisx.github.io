@@ -1,40 +1,25 @@
-## Welcome to GitHub Pages
+## Artanis GitHub Website
 
+<<<<<<< HEAD
 Open the [AHL Documentation](https://artanisx.github.io/AHLDocs)
 
 
 You can use the [editor on GitHub](https://github.com/Artanisx/artanisx.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+=======
+Welcome to my GitHub website. This page is fairly recent (26/07/2017) and its purpose for now is to be a repository for AHL documentation.
+>>>>>>> Dev
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In the future it is more than likely I'll use this page not only for documentation of all my programming projects (using the wonderful [Sandcastle Help File Builder](https://github.com/EWSoftware/SHFB), but also in general for web pages and Wiki.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Artanis Helper Library Documentation
 
-```markdown
-Syntax highlighted code block
+AHL is a lightweight C# DLL to help the programmer with some useful and basic features like Logging and Settings handling. Since I found myself writing the same feature multiple time across different programs, I decided once is enough and thus I begun writing this library. You can access the most current Documentation via [AHLDocs](https://artanisx.github.io/AHLDocs) or directly using this link [https://artanisx.github.io/AHLDocs](https://artanisx.github.io/AHLDocs).
 
-# Header 1
-## Header 2
-### Header 3
+### Artanis Blog
 
-- Bulleted
-- List
+I have a personal blog which can be reached [clicking here](https://artanisx.wordpress.com/) or using its regular address [https://artanisx.wordpress.com/](https://artanisx.wordpress.com/). The blog and this website are two separate entities.
 
-1. Numbered
-2. List
+### Info
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Artanisx/artanisx.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Since I'm still new using Github Desktop and Github Pages (and in general Git, as up until know I've used GUI for it), I'm keeping tabs of all operations using [this page](https://artanisx.github.io/notes.md).
