@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Lava Golf"
 permalink: /LavaGolf/
+---
 ## Lava Golf
 
 Temporary page for Lava Golf. 
