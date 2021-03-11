@@ -1,3 +1,5 @@
+layout: page
+title: "Lava Golf"
 permalink: /LavaGolf/
 ## Lava Golf
 
