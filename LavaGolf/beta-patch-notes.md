@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Lava Golf - Beta Patch Notes"
+permalink: /LavaGolf/beta-patch-notes
+---
 ## Lava Golf - Beta Patch Notes
 
 In here the beta patch notes for Lava Golf!
