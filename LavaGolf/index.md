@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Lava Golf"
 permalink: /LavaGolf/
 ---
