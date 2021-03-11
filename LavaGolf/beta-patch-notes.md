@@ -1,4 +1,3 @@
-permalink: /LavaGolf/
 ## Lava Golf - Beta Patch Notes
 
 In here the beta patch notes for Lava Golf!
