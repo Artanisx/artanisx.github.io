@@ -4,7 +4,7 @@ title: "Lava Golf"
 permalink: /LavaGolf/
 ---
 ## Lava Golf
-<<Passa alla pagina in lingua italiana [qui](https://artanisx.github.io/LavaGolf/LavaGolf/italian)!>>
+<<Passa alla pagina in lingua italiana [qui](https://artanisx.github.io/LavaGolf/italian)!>>
 
 Welcome to the Beta page for Lava Golf! Since we're currently just opening beta for the game, we thought of having a small onboarding page only you get to see!
 
