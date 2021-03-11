@@ -1,5 +1,6 @@
 ---
 layout: default
+theme: jekyll-theme-hacker
 title: "Lava Golf"
 permalink: /LavaGolf/
 ---
