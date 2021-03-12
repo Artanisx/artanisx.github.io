@@ -12,6 +12,7 @@ Per prima cosa, ricorda che puoi accedere alla pagina del gioco su Itch.io [qui]
 
 # Il gioco
 <<Descrizione ancora provvisoria, quindi disponibile solo in inglese>>
+
 Dive into a new and unexpected take for golf games! In Lava Golf you do not control a golfer, instead you are the golf ball and your objective is to reach the end portal of each course without falling in the lava.
 Armed by some unexpected skills for a golf ball, like the ability to dash into the air or to hit the breaks to avoid falling out of a platform, you will need to cross all the portal rings of a course to unlock its exit portal. In each course you'll also find precious experience spheres which will let you gain levels and get skill points you'll be able to use to unlock new incredible abilities and to enhance your existing ones!
 Unlock unique skills, cross all the rings, and most importantly... DON'T FALL IN THE LAVA!
