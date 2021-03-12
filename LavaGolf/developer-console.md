@@ -8,7 +8,7 @@ During Alpha and Beta, testers can access the Developer Console directly from th
 
 
 ## How to operate the Developer Console
-In order to open the Developer Console you need to push the **TAB KEY** on your keyboard. It will open the console, and now you'll be able to type your commands. Each command must be prefixed with \.
+In order to open the Developer Console you need to push the **TAB KEY** on your keyboard. It will open the console, and now you'll be able to type your commands. Each command must be prefixed with \\.
 You can check all available commands directly in the console typing **\help**
 
 The list of the commands follows:
