@@ -21,6 +21,13 @@ The Lava Gold beta finally starts. Below some of the changes we implemented from
 * Completed the final lightning baking pass on all levels.
 * Updated the font color in the Air Dash description in Game Help Scene
 
+*Audio and Music*
+* Added a music theme for the Game Over screen.
+* Added a music theme for the Victory screen.
+* Added two different ambience sound effect for the Lava.
+* Added a sound effect for the Level Up.
+* Added a sound effect for X Spheres collection.
+
 *Features*
 * Added the screenshots functionality to the [Developer Console](https://artanisx.github.io/LavaGolf/developer-console). Beta testers can use this to take screenshots to accompany their feedback. Open the console with the Tab key and type \ss to take a screenshot. The screenshot will appear in the Screenshots folder inside the Lava Golf_Data subfolder in the game installation path. 
 
