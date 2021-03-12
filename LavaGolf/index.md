@@ -3,7 +3,7 @@ layout: default
 title: "Lava Golf"
 permalink: /LavaGolf/
 ---
-## Lava Golf
+# Lava Golf
 <<Passa alla pagina in lingua italiana [qui](https://artanisx.github.io/LavaGolf/italian)!>>
 
 Welcome to the Beta page for Lava Golf! Since we're currently just opening beta for the game, we thought of having a small onboarding page only you get to see!
@@ -11,12 +11,12 @@ Welcome to the Beta page for Lava Golf! Since we're currently just opening beta 
 
 First of all, you can access our Itch.io page for the game [here](https://artanisx.itch.io/lava-golf). From the Itch.io page you can download the game (just put zero in the price field, and you'll download it for free).
 
-# The Game
+## The Game
 Dive into a new and unexpected take for golf games! In Lava Golf you do not control a golfer, instead you are the golf ball and your objective is to reach the end portal of each course without falling in the lava.
 Armed by some unexpected skills for a golf ball, like the ability to dash into the air or to hit the breaks to avoid falling out of a platform, you will need to cross all the portal rings of a course to unlock its exit portal. In each course you'll also find precious experience spheres which will let you gain levels and get skill points you'll be able to use to unlock new incredible abilities and to enhance your existing ones!
 Unlock unique skills, cross all the rings, and most importantly... DON'T FALL IN THE LAVA!
 
-# The Beta
+## The Beta
 Since you decided to join the beta (thanks!), we would like to tell you how to be a good beta tester :)
 Firstly, play the game as much as you like! Don't feel forced to play it, play it when you have some time and want to check it out, or want to try to beat a level where you're stuck. Or to show off to your friends!
 
@@ -29,8 +29,10 @@ You can give your feedback in several ways:
 
 Remember, your feedback will help us shape the game in the right direction. It's really useful, so make sure to share it as much as you can.
 
+Lastly, since you are a beta tester, you get to access the [Developer Console](https://artanisx.github.io/LavaGolf/developer-console)! Check the [guide](https://artanisx.github.io/LavaGolf/developer-console) to know how to use it. 
 
-### Patch notes
+
+## Patch notes
 Since we're in beta we started publishing patch notes. You can check our Beta patch notes following the link below.
 
  Get the [Beta Patch Notes](https://artanisx.github.io/LavaGolf/beta-patch-notes) here.
