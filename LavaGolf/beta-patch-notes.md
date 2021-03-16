@@ -11,7 +11,7 @@ As a reminder, you can access our Itch.io page for the game [here](https://artan
 
 ## Patch notes
 
-### Version 1.0 - 16/03/2021:
+### Version 1.0 - 17/03/2021:
 
 First beta release!
 
