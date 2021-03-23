@@ -14,6 +14,7 @@ Per prima cosa, ricorda che puoi accedere alla pagina del gioco su Itch.io [qui]
 Immergiti in un nuovo e inaspettato tipo di gioco sul golf! In Lava Golf non controlli il golfer, bensì la pallina stessa. Il tuo obiettivo è raggiungere il portale di fine livello senza finire nella lava.
 Armato con alcune strane abilità per una pallina da golf, come l'abilità di scattare in aria o di frenare per evitare di cadere giù da una piattaforma, dovrai attraversare tutti gli Anelli di Lava Armed di ogni livello per sbloccare il relativo portale d'uscita. In ogni percorso potrai anche trovare delle preziosissime Sfere X che ti permetteranno di guadagnare livelli e punti abilità da usare per sbloccare altre incredibili abilità nonchè di potenziare quelle già in tuo possesso! 
 Sblocca abilità uniche, attraversa gli anelli, e cosa più importante... NON CADERE NELLA LAVA!
+
 <<*Nota: Il gioco è interamente in lingua inglese*>>
 
 ## La Beta
