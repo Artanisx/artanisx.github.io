@@ -8,14 +8,13 @@ permalink: /LavaGolf/italian/
 
 Benvenuto alla pagina della Beta di Lava Golf! Dato che abbiamo appena aperto la beta, abbiamo pensato di creare una piccola pagina di benvenuto solo per te, contenente alcune istruzioni!
 
-Per prima cosa, ricorda che puoi accedere alla pagina del gioco su Itch.io [qui](https://artanisx.itch.io/lava-golf). Dalla pagina Itch.io puoi scaricare il gioco (metti zero nel campo del prezzo così la scaricherai gratis).
+Per prima cosa, ricorda che puoi accedere alla pagina del gioco su Itch.io [qui](https://artanisx.itch.io/lava-golf). Dalla pagina Itch.io puoi scaricare il gioco: clicca su **DOWNLOAD NOW**, e clicca su *"No thanks, just take me to the downloads"* così da scaricarla gratuitamente. Quindi, clicca sul tasto **DOWNLOAD** rosso, sulla build più recente.
 
 ## Il gioco
-<<Descrizione ancora provvisoria, quindi disponibile solo in inglese>>
-
-Dive into a new and unexpected take for golf games! In Lava Golf you do not control a golfer, instead you are the golf ball and your objective is to reach the end portal of each course without falling in the lava.
-Armed by some unexpected skills for a golf ball, like the ability to dash into the air or to hit the breaks to avoid falling out of a platform, you will need to cross all the portal rings of a course to unlock its exit portal. In each course you'll also find precious experience spheres which will let you gain levels and get skill points you'll be able to use to unlock new incredible abilities and to enhance your existing ones!
-Unlock unique skills, cross all the rings, and most importantly... DON'T FALL IN THE LAVA!
+Immergiti in un nuovo e inaspettato tipo di gioco sul golf! In Lava Golf non controlli il golfer, bensì la pallina stessa. Il tuo obiettivo è raggiungere il portale di fine livello senza finire nella lava.
+Armato con alcune strane abilità per una pallina da golf, come l'abilità di scattare in aria o di frenare per evitare di cadere giù da una piattaforma, dovrai attraversare tutti gli Anelli di Lava Armed di ogni livello per sbloccare il relativo portale d'uscita. In ogni percorso potrai anche trovare delle preziosissime Sfere X che ti permetteranno di guadagnare livelli e punti abilità da usare per sbloccare altre incredibili abilità nonchè di potenziare quelle già in tuo possesso! 
+Sblocca abilità uniche, attraversa gli anelli, e cosa più importante... NON CADERE NELLA LAVA!
+<<*Nota: Il gioco è interamente in lingua inglese*>>
 
 ## La Beta
 Dato che hai deciso di unirti alla beta (grazie!), vorremmo dirti come fare di te il beta tester perfetto :)
@@ -26,7 +25,7 @@ Ciò che ci serve da te... è sapere cosa ne pensi, il tuo feedback, quale porzi
 Puoi dirci ciò che pensi in diversi modi:
 * Diccelo di persona! Questa è una possibilità se ci siamo incontrati per provare il gioco!
 * Mandaci una mail [email](mailto: HeiLavaGolf@protonmail.com) con i tuoi pensieri e commenti. Puoi scriverci in Italiano o in Inglese.
-* Segui questo Google Form e inseriscici le tue risposte e commenti! Come detto, puoi scriveci sia in Italiano che in Inglese. [Non ancora disponbile] 
+* Segui questo Google Form e inseriscici le tue risposte e commenti! Come detto, puoi scriveci sia in Italiano che in Inglese. [Google Form](https://forms.gle/teEji3LfL7kx22Gf8) 
 
 Ricorda che il tuo feedback ci aiuterà a definire il gioco e farci andare nella giusta direzione. È davvero utile, quindi assicurati di dirci cosa ne pensi con più dettagli che puoi.
 
