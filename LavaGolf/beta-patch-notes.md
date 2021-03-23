@@ -25,6 +25,9 @@ The Lava Golf beta finally starts. Below some of the changes we implemented from
 * The H.E.I. logo has been updated in the splash screen.
 * Updated the background scene in the Credits.
 * Antialiasing fixes.
+* Fixed Camera on Power Up Scene. 
+* Updated the graphics settings for the High Quality preset.
+* Now the cursor is hidden while in first person camera mode.
 
 *Audio and Music*
 * Added a music theme for the Game Over screen.
@@ -36,6 +39,7 @@ The Lava Golf beta finally starts. Below some of the changes we implemented from
 *Gameplay and Levels*
 * Swapped a platform in Level 5 to fix a rare issue.
 * Swapped a platform in Level 7 to fix a rare issue.
+* Fixed the number of actual Lava Rings in Level 7.
 
 *Features*
 * Added the screenshots functionality to the [Developer Console](https://artanisx.github.io/LavaGolf/developer-console). Beta testers can use this to take screenshots to accompany their feedback. Open the console with the Tab key and type \ss to take a screenshot. The screenshot will appear in the Screenshots folder inside the Lava Golf_Data subfolder in the game installation path. 
