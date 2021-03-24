@@ -11,6 +11,23 @@ As a reminder, you can access our Itch.io page for the game [here](https://artan
 
 ## Patch notes
 
+### Version 1.1 - In development:
+
+This is the first patch for the Beta and includes the fixes some of our dear beta tester asked for. This version is still in development.
+
+*UI*
+* The help text for the **GROUND DASH** is now fixed. Due to a bug it showed a copy of the description of the AIR BRAKE. The actual description for the GROUN DASH is: "The ball rolls forward, allowing the player to try to collect more X Spheres or to avoid falling from a platform. There are a finite amount of charges, but they get replenished each time you land. Usable only on the ground".
+* The game levels are now called "COURSES" (it's a golf game after all) to avoid any confusion with player levels.
+* When you mouse over on a button in the Main Menu the lightning effect is now more pronounced.
+* The text "Press any key to start!" in the Loading Screen for the very first level has been changed to make it more readable.
+* Added explanation on the number of shoots for each level in the Game Help screen.
+* Updated the game help desciptions mentioning "forward" with "the direction the camera is facing" to avoid confusion.
+
+*Controls*
+* You can now go back to the Main Menu at any point during the gameplay, with the ESC key (or the "BACK" button on your gamepad).
+* Keybindings for Air Brake and Ground Dash swapped. Air Brake is now LEFT CONTROL, while Ground Dash is now mapped to LEFT ALT to account for the keys position in the keyboard.
+* Changed the Camera control angle to avoid a bug when looking down.
+
 ### Version 1.0 - 23/03/2021:
 
 First beta release!
