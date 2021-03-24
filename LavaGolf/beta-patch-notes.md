@@ -28,6 +28,9 @@ This is the first patch for the Beta and includes the fixes some of our dear bet
 * Keybindings for Air Brake and Ground Dash swapped. Air Brake is now LEFT CONTROL, while Ground Dash is now mapped to LEFT ALT to account for the keys position in the keyboard.
 * Changed the Camera control angle to avoid a bug when looking down.
 
+*Gameplay and Levels*
+* Fixed the number of actual Lava Rings in Level 7 (for real this time).
+
 ### Version 1.0 - 23/03/2021:
 
 First beta release!
