@@ -30,6 +30,39 @@ Puoi dirci ciò che pensi in diversi modi:
 
 Ricorda che il tuo feedback ci aiuterà a definire il gioco e farci andare nella giusta direzione. È davvero utile, quindi assicurati di dirci cosa ne pensi con più dettagli che puoi.
 
+Inoltre, visto che sei un beta tester, hai accesso alla[Developer Console](https://artanisx.github.io/LavaGolf/developer-console)! Leggi la [guida](https://artanisx.github.io/LavaGolf/developer-console) per scoprire come usarla. 
+
+## Come si gioca
+C'è una schermata *How To Play* nel gioco, ma parliamo un po' di come si gioca anche qui.
+Per prima cosa, come forse saprai, lo scopo del gioco è raggiungere il Portale d'Uscita alla fine di ogni livello. Per attivare il portale, è imperativo che la pallina (quindi, tu!) attraversi TUTTI i Lava Ring della mappa. 
+
+![UI image](https://artanisx.github.io/LavaGolf/images/Help.jpg)
+
+Nell'angolo in alto a sinistra dell'interfaccia, puoi vedere il numero di **Lava Rings** (il primo numero sono gli anelli attraversati, mentre il secondo sono quelli totali), il numero di **X Spheres** del percorso (raccolti / totali) e il numero dei **Shoots** (tiro corrente / tiri totali).
+Il tuo obiettivo è attraversare TUTTI i Lava Ring e quindi di attraversare il Portale d'Uscita prima che l'ultimo tiro sia stato effettuato e tu sia atterrato. 
+Nell'esempio in alto, che è del primo percorso, sarai sparato due volte (Shoots: 0/2). Dopo che il secondo tiro sarà stato effettuato (l'interfaccia mostrerà "Shoots: 2/2") DEVI raggiungere il portale d'uscita prima di toccare terra o sarà Game Over. Se raggiungi il Portale d'Uscita e non è stato attivato (niente animazione verde), sarà comunque Game Over. Come detto, attraversare tutti i Lava Ring è la condizione per attivare il portale d'uscita.
+
+Per ricapitolare: hai un numero finito di tiri per attraversare tutti i Lava Ring (che attivano il portale d'uscita) e devi raggiungere il portale d'uscita per vincere la mappa.
+
+Puoi controllare dove la pallina (quindi, di nuovo, tu!) andrà attraverso alcune delle tue abilità. 
+
+![Air Dash](https://artanisx.github.io/LavaGolf/images/AirDash.png)
+
+**AIR DASH** lancerà la pallina nella direzione della telecamera. Guarda dove vuoi andare e usa AIR DASH per muoverti in quella direzione.
+
+![Air Brake](https://artanisx.github.io/LavaGolf/images/AirBrake.png)
+
+**AIR BRAKE** tirerà il freno, fermando la pallina mentre è in volo così da consentirti di atterrare in una piattaforma sotto di te. Usala per evitare di superare una piattaforma dove intendevi atterrare, per esempio, oppure per posizionarti meglio per fare un altro AIR DASH e magari attraversare un LAVA RING o per raccogliere un po' di X SPHERES.
+
+![Ground Dash](https://artanisx.github.io/LavaGolf/images/GroundDash.png)
+
+**GROUND DASH** ti farà rotolare nella direzione della telecamera quando la pallina è sul terreno. Guarda nella direzione in cui vuoi che la pallina rotoli e usa quest'abilità. Può essere inutile per evitare di rotolare fuori da una piattaforma o per raccogliere più X SPHERES.
+
+C'è una cosa molto importante da tenere a mente: ogni volta che attraversi un *Lava Ring* le cariche di Air Dash a disposizione saranno rifornite. Inoltre, ogni volta che atterri, sia le cariche di Air Dash, quelle dell'Air Brake e quelle del Ground Dash saranno rifornite! Potrai quindi usare di nuovo tutte le abilità innate nel prossimo tiro.
+
+Queste sono le abilità innate cui si parte già dal primo livello (non fare caso ai keybinding mostrati negli screen qui sopra, potranno cambiare), ma ovviamente hai anche a dispozione altre abilità: le abilità sbloccabili. Le puoi consultare nella schermata How to Play nel gioco e nella schermata del Power Up in gioco.
+
+A proposito dei power up, ogni volta che guadagni 1000 punti esperienza (raccogliendo le X Spheres guadagnerai punti esperienza!), guadagnerai un livello esperienza. Ogni livello esperienza ti farà guadagnare un certo numero di punti abilità; con questi punti abilità potrai sbloccare abilità e potenziare quelle già in tuo possesso nella schermata di Power Up che raggiungerai ogni volta che completerai una mappa. Fanne buon uso perchè le abilità e soprattutto le abilità sbloccabili sono MOLTO POTENTI e parecchio importanti per superare i livelli più avanzati!
 
 ## Patch notes
 Dall'inizio della beta, abbiamo iniziato a scrivere e pubblicare le patch notes. Puoi leggere le patch notes della beta seguendo il link qui di seguito (in lingua inglese).
