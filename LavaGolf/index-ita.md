@@ -56,7 +56,7 @@ Puoi controllare dove la pallina (quindi, di nuovo, tu!) andrà attraverso alcun
 
 ![Ground Dash](https://artanisx.github.io/LavaGolf/images/GroundDash.png)
 
-**GROUND DASH** ti farà rotolare nella direzione della telecamera quando la pallina è sul terreno. Guarda nella direzione in cui vuoi che la pallina rotoli e usa quest'abilità. Può essere inutile per evitare di rotolare fuori da una piattaforma o per raccogliere più X SPHERES.
+**GROUND DASH** ti farà rotolare nella direzione della telecamera quando la pallina è sul terreno. Guarda nella direzione in cui vuoi che la pallina rotoli e usa quest'abilità. Può essere utile per evitare di rotolare fuori da una piattaforma o per raccogliere più X SPHERES.
 
 C'è una cosa molto importante da tenere a mente: ogni volta che attraversi un *Lava Ring* le cariche di Air Dash a disposizione saranno rifornite. Inoltre, ogni volta che atterri, sia le cariche di Air Dash, quelle dell'Air Brake e quelle del Ground Dash saranno rifornite! Potrai quindi usare di nuovo tutte le abilità innate nel prossimo tiro.
 
