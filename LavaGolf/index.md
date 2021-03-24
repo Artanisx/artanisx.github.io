@@ -63,6 +63,10 @@ These are the innate skills (don't mind the keybindings shown in the pictures ab
 
 Speaking of power up, each time you gain 1000 experience points (gathering an X sphere nets you some experience points!) you'll gain a level. Each level gains you some Skill points; those skill points can be used to unlock skills and to enhance current ones in the Power Up Screen you'll reach each time you complete a course. Make good use of skill points as the skills and unlockable skills in particular are VERY STRONG and quite intrumental to overcome the later levels!
 
+Lastly, have a look at a screenshot with each element of the UI and some of the game objects themselves explained:
+
+![Game UI Help](https://artanisx.github.io/LavaGolf/images/GameHelpUI.png)
+
 ## Patch notes
 Since we're in beta we started publishing patch notes. You can check our Beta patch notes following the link below.
 

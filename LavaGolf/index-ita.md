@@ -64,6 +64,10 @@ Queste sono le abilità innate cui si parte già dal primo livello (non fare cas
 
 A proposito dei power up, ogni volta che guadagni 1000 punti esperienza (raccogliendo le X Spheres guadagnerai punti esperienza!), guadagnerai un livello esperienza. Ogni livello esperienza ti farà guadagnare un certo numero di punti abilità; con questi punti abilità potrai sbloccare abilità e potenziare quelle già in tuo possesso nella schermata di Power Up che raggiungerai ogni volta che completerai una mappa. Fanne buon uso perchè le abilità e soprattutto le abilità sbloccabili sono MOLTO POTENTI e parecchio importanti per superare i livelli più avanzati!
 
+Per concludere, dai un'occhiata a questo screenshot con ogni elemento dell'interfaccia di gioco (e alcuni oggetti di gioco stesso) spiegato:
+
+![Game UI Help](https://artanisx.github.io/LavaGolf/images/GameHelpUI.png)
+
 ## Patch notes
 Dall'inizio della beta, abbiamo iniziato a scrivere e pubblicare le patch notes. Puoi leggere le patch notes della beta seguendo il link qui di seguito (in lingua inglese).
 
