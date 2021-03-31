@@ -31,13 +31,14 @@ This is the first patch for the Beta and includes the fixes some of our dear bet
 * (I) Added more elements to the Help Screen guide, including the UI element for Lava Rings, X Spheres and the Shoots.
 * Added a Video Guide in the Help Screen to show you the ropes of Lava Golf! Make sure to check it out!
 * (I) UI element for Air Brake and Ground Dash are now swapped. Air Brake is now in the bottom right, while Ground Dash is now in the bottom left corner of the innate skills UI.
-* Fixed an issue in the Power Up Sceen that would let the tooltip show during the loading if a player used Space/Enter to click the CONTINUE button while still hovering with the mouse on a skill.
+* (I) Fixed an issue in the Power Up Sceen that would let the tooltip show during the loading if a player used Space/Enter to click the CONTINUE button while still hovering with the mouse on a skill.
+* (I) Credits have been updated.
 * Added a visual cue to inform the player the next shoot is about to be performed.
 
 *Controls*
-* You can now go back to the Main Menu at any point during the gameplay, with the ESC key (or the "BACK" button on your gamepad).
+* (I) You can now go back to the Main Menu at any point during the gameplay, with the ESC key (or the "START" button on your gamepad).
 * (I) Changed the Camera control angle to avoid a bug when looking down.
-* You can now quit the overview camera with the SPACEBAR as well.
+* (I) You can now quit the overview camera with the SPACEBAR as well.
 
 *Gameplay and Levels*
 * (I) Fixed the number of actual Lava Rings in Level 7 (for real this time).
