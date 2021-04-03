@@ -29,7 +29,7 @@ This is the first patch for the Beta and includes the fixes some of our dear bet
 * (I) Added explanation on the number of shoots for each level in the Game Help screen.
 * Updated the game help desciptions mentioning "forward" with "the direction you're aiming" to avoid confusion.
 * (I) Added more elements to the Help Screen guide, including the UI element for Lava Rings, X Spheres and the Shoots.
-* Added a Video Guide in the Help Screen to show you the ropes of Lava Golf! Make sure to check it out!
+* (I) Added a Video Guide in the Help Screen to show you the ropes of Lava Golf. The video can be played in full screen / switched back clicking on the video itself. Make sure to check it out!
 * (I) UI element for Air Brake and Ground Dash are now swapped. Air Brake is now in the bottom right, while Ground Dash is now in the bottom left corner of the innate skills UI.
 * (I) Fixed an issue in the Power Up Sceen that would let the tooltip show during the loading if a player used Space/Enter to click the CONTINUE button while still hovering with the mouse on a skill.
 * (I) Credits have been updated.
