@@ -34,6 +34,8 @@ This is the first patch for the Beta and includes the fixes some of our dear bet
 * (I) Fixed an issue in the Power Up Sceen that would let the tooltip show during the loading if a player used Space/Enter to click the CONTINUE button while still hovering with the mouse on a skill.
 * (I) Credits have been updated.
 * Added a visual cue to inform the player the next shoot is about to be performed.
+* (I) Now the Pause Menu controls are properly split in two separated lines.
+* Changed the game ui elements so that it doesn't mentions "Rings", "X Spheres" and "Shoots" no longer as they are properly explained by the use of the related icon (plus the How to Play screen explains them at lenght). Now the UI is more compact as a result and more readable. 
 
 *Controls*
 * (I) You can now go back to the Main Menu at any point during the gameplay, with the ESC key (or the "START" button on your gamepad).
@@ -43,6 +45,7 @@ This is the first patch for the Beta and includes the fixes some of our dear bet
 *Gameplay and Levels*
 * (I) Fixed the number of actual Lava Rings in Level 7 (for real this time).
 * (I) Fixed a collider issue with the starting platform in Level 3.
+* Edited the collider for the Green Portal so it doesn't trigger before the ball properly enters the portal to avoid a very rare visual bug.
 
 ### Version 1.0 - 23/03/2021:
 
