@@ -33,7 +33,7 @@ This is the first patch for the Beta and includes the fixes some of our dear bet
 * (I) UI element for Air Brake and Ground Dash are now swapped. Air Brake is now in the bottom right, while Ground Dash is now in the bottom left corner of the innate skills UI.
 * (I) Fixed an issue in the Power Up Sceen that would let the tooltip show during the loading if a player used Space/Enter to click the CONTINUE button while still hovering with the mouse on a skill.
 * (I) Credits have been updated.
-* Added a visual cue to inform the player the next shoot is about to be performed.
+* (I) Added a visual cue (a "bar" that is filled) to inform the player the next shoot is about to be performed.
 * (I) Now the Pause Menu controls are properly split in two separated lines.
 * Changed the game ui elements so that it doesn't mentions "Rings", "X Spheres" and "Shoots" no longer as they are properly explained by the use of the related icon (plus the How to Play screen explains them at lenght). Now the UI is more compact as a result and more readable. 
 
