@@ -17,9 +17,12 @@ This is the first patch for the Beta and includes the fixes some of our dear bet
 
 *Graphics*
 * Added a small visual effect to celebrate the player when the End Portal is reached.
+* (I) Added a small visual effect when the player gathers an X Sphere.
+* Added a small visual effect when the player crosse a Lava Ring.
+* (I) Added an animated Crystal Golf Tee in all levels, so the ball rests on it before being launched for the very first time.
 
 *Audio and Music*
-* Added a small audio effect to celebrate the player when the End Portal is reached.
+* (I) Added a small audio effect to celebrate the player when the End Portal is reached.
 
 *UI*
 * (I) The help text for the **GROUND DASH** is now fixed. Due to a bug it showed a copy of the description of the AIR BRAKE. The actual description for the GROUN DASH is: "The ball rolls forward, allowing the player to try to collect more X Spheres or to avoid falling from a platform. There are a finite amount of charges, but they get replenished each time you land. Usable only on the ground".
@@ -35,7 +38,8 @@ This is the first patch for the Beta and includes the fixes some of our dear bet
 * (I) Credits have been updated.
 * (I) Added a visual cue (a "bar" that is filled) to inform the player the next shoot is about to be performed.
 * (I) Now the Pause Menu controls are properly split in two separated lines.
-* Changed the game ui elements so that it doesn't mentions "Rings", "X Spheres" and "Shoots" no longer as they are properly explained by the use of the related icon (plus the How to Play screen explains them at lenght). Now the UI is more compact as a result and more readable. 
+* (I) Changed the game ui elements so that it doesn't mentions "Rings", "X Spheres" and "Shoots" no longer as they are properly explained by the use of the related icon (plus the How to Play screen explains them at lenght). Now the UI is more compact as a result and more readable. 
+* (I) Did a pass on all in game help strings to improve clarity.
 
 *Controls*
 * (I) You can now go back to the Main Menu at any point during the gameplay, with the ESC key (or the "START" button on your gamepad).
@@ -45,7 +49,7 @@ This is the first patch for the Beta and includes the fixes some of our dear bet
 *Gameplay and Levels*
 * (I) Fixed the number of actual Lava Rings in Level 7 (for real this time).
 * (I) Fixed a collider issue with the starting platform in Level 3.
-* Edited the collider for the Green Portal so it doesn't trigger before the ball properly enters the portal to avoid a very rare visual bug.
+* (I) Edited the collider for the Green Portal so it doesn't trigger before the ball properly enters the portal to avoid a very rare visual bug.
 
 ### Version 1.0 - 23/03/2021:
 
