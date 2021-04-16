@@ -16,13 +16,17 @@ As a reminder, you can access our Itch.io page for the game [here](https://artan
 This is the first patch for the Beta and includes the fixes some of our dear beta tester asked for. This version is still in development.
 
 *Graphics*
-* Added a small visual effect to celebrate the player when the End Portal is reached.
+* (I) Added a small visual effect to celebrate the player when the End Portal is reached.
+* (I) After reaching the end portal, the ball will disappear as intended. The camera will move slightly upwards to let the player take a view to the fireworks.
+* (I) After completing a level, the next level won't load instantly, allowing the player to watch the new celebrative visual effect.
 * (I) Added a small visual effect when the player gathers an X Sphere.
 * Added a small visual effect when the player crosse a Lava Ring.
 * (I) Added an animated Crystal Golf Tee in all levels, so the ball rests on it before being launched for the very first time.
+* (I) Rebaked all levels to account for the new animated Crystal Golf Tee.
 
 *Audio and Music*
 * (I) Added a small audio effect to celebrate the player when the End Portal is reached.
+* (I) Added a sound effect for the fireworks that spawn after entering the End Portal.
 
 *UI*
 * (I) The help text for the **GROUND DASH** is now fixed. Due to a bug it showed a copy of the description of the AIR BRAKE. The actual description for the GROUN DASH is: "The ball rolls forward, allowing the player to try to collect more X Spheres or to avoid falling from a platform. There are a finite amount of charges, but they get replenished each time you land. Usable only on the ground".
@@ -40,6 +44,9 @@ This is the first patch for the Beta and includes the fixes some of our dear bet
 * (I) Now the Pause Menu controls are properly split in two separated lines.
 * (I) Changed the game ui elements so that it doesn't mentions "Rings", "X Spheres" and "Shoots" no longer as they are properly explained by the use of the related icon (plus the How to Play screen explains them at lenght). Now the UI is more compact as a result and more readable. 
 * (I) Did a pass on all in game help strings to improve clarity.
+* (I) Reflected the new usability rules for the Rewind skill in the game ui.
+* (I) Update the Game Help guide on the Rewind skill to reflect the new usability rules.
+* (I) Fixed a bug that prevented the new Launch Bar to be shown after a Rewind was used.
 
 *Controls*
 * (I) You can now go back to the Main Menu at any point during the gameplay, with the ESC key (or the "START" button on your gamepad).
@@ -50,6 +57,9 @@ This is the first patch for the Beta and includes the fixes some of our dear bet
 * (I) Fixed the number of actual Lava Rings in Level 7 (for real this time).
 * (I) Fixed a collider issue with the starting platform in Level 3.
 * (I) Edited the collider for the Green Portal so it doesn't trigger before the ball properly enters the portal to avoid a very rare visual bug.
+
+*Balance*
+* (I) The Rewind skill can now only be used while in the air.
 
 ### Version 1.0 - 23/03/2021:
 
