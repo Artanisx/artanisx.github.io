@@ -20,9 +20,11 @@ This is the first patch for the Beta and includes the fixes some of our dear bet
 * (I) After reaching the end portal, the ball will disappear as intended. The camera will move slightly upwards to let the player take a view to the fireworks.
 * (I) After completing a level, the next level won't load instantly, allowing the player to watch the new celebrative visual effect.
 * (I) Added a small visual effect when the player gathers an X Sphere.
-* Added a small visual effect when the player crosses a Lava Ring.
+* (I) Added a small visual effect when the player crosses a Lava Ring.
 * (I) Added an animated Crystal Golf Tee in all levels, so the ball rests on it before being launched for the very first time.
 * (I) Rebaked all levels to account for the new animated Crystal Golf Tee.
+* Added smoke particle effects in the lava across all levels.
+* Added lava bubbles effects in the lava across all levels.
 
 *Audio and Music*
 * (I) Added a small audio effect to celebrate the player when the End Portal is reached.
@@ -45,8 +47,9 @@ This is the first patch for the Beta and includes the fixes some of our dear bet
 * (I) Changed the game ui elements so that it doesn't mentions "Rings", "X Spheres" and "Shoots" no longer as they are properly explained by the use of the related icon (plus the How to Play screen explains them at lenght). Now the UI is more compact as a result and more readable. 
 * (I) Did a pass on all in game help strings to improve clarity.
 * (I) Reflected the new usability rules for the Rewind skill in the game ui.
-* (I) Update the Game Help guide on the Rewind skill to reflect the new usability rules.
+* (I) Updated the Game Help guide on the Rewind skill to reflect the new usability rules.
 * (I) Fixed a bug that prevented the new Launch Bar to be shown after a Rewind was used.
+* (I) Updated the Game Help guide in accordance with the balance pass on the Air Brake.
 
 *Controls*
 * (I) You can now go back to the Main Menu at any point during the gameplay, with the ESC key (or the "START" button on your gamepad).
@@ -60,6 +63,7 @@ This is the first patch for the Beta and includes the fixes some of our dear bet
 
 *Balance*
 * (I) The Rewind skill can now only be used while in the air.
+* (I) Now the Air Brake is FAR more powerful. It also gives some grace period before applying gravity back. Using an Air Dash will instantly restore the proper drag and gravity values.
 
 ### Version 1.0 - 23/03/2021:
 
