@@ -50,6 +50,7 @@ This is the first patch for the Beta and includes the fixes some of our dear bet
 * (I) Updated the Game Help guide on the Rewind skill to reflect the new usability rules.
 * (I) Fixed a bug that prevented the new Launch Bar to be shown after a Rewind was used.
 * (I) Updated the Game Help guide in accordance with the balance pass on the Air Brake.
+* (I) Added loading tips.
 
 *Controls*
 * (I) You can now go back to the Main Menu at any point during the gameplay, with the ESC key (or the "START" button on your gamepad).
