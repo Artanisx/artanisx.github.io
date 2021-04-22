@@ -51,11 +51,13 @@ This is the first patch for the Beta and includes the fixes some of our dear bet
 * (I) Fixed a bug that prevented the new Launch Bar to be shown after a Rewind was used.
 * (I) Updated the Game Help guide in accordance with the balance pass on the Air Brake.
 * (I) Added loading tips.
+* (I) Added the Twitter and Itch.io buttons in the main menu to bring you directly to Lava Golf's Twitter page and the Lava Golf's Itch.io page.
 
 *Controls*
 * (I) You can now go back to the Main Menu at any point during the gameplay, with the ESC key (or the "START" button on your gamepad).
 * (I) Changed the Camera control angle to avoid a bug when looking down.
 * (I) You can now quit the overview camera with the SPACEBAR as well.
+* (I) You can now take a screenshot of the game by pressing F12. Developer Console is not required for this action.
 
 *Gameplay and Levels*
 * (I) Fixed the number of actual Lava Rings in Level 7 (for real this time).
