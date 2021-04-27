@@ -11,7 +11,7 @@ As a reminder, you can access our Itch.io page for the game [here](https://artan
 
 ## Patch notes
 
-### Version 1.1 - In development:
+### Version 1.1 - Impeding Release:
 
 This is the first patch for the Beta and includes the fixes some of our dear beta tester asked for. This version is still in development.
 
@@ -23,8 +23,8 @@ This is the first patch for the Beta and includes the fixes some of our dear bet
 * (I) Added a small visual effect when the player crosses a Lava Ring.
 * (I) Added an animated Crystal Golf Tee in all levels, so the ball rests on it before being launched for the very first time.
 * (I) Rebaked all levels to account for the new animated Crystal Golf Tee.
-* Added smoke particle effects in the lava across all levels.
-* Added lava bubbles effects in the lava across all levels.
+* (I) Added smoke particle effects in the lava across all levels.
+* (I) Added lava bubbles effects in the lava across all levels.
 
 *Audio and Music*
 * (I) Added a small audio effect to celebrate the player when the End Portal is reached.
@@ -63,6 +63,7 @@ This is the first patch for the Beta and includes the fixes some of our dear bet
 * (I) Fixed the number of actual Lava Rings in Level 7 (for real this time).
 * (I) Fixed a collider issue with the starting platform in Level 3.
 * (I) Edited the collider for the Green Portal so it doesn't trigger before the ball properly enters the portal to avoid a very rare visual bug.
+* (I) Minor rings position tweaks in some levels.
 
 *Balance*
 * (I) The Rewind skill can now only be used while in the air.
