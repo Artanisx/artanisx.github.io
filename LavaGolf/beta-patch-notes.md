@@ -52,6 +52,7 @@ This is the first patch for the Beta and includes the fixes some of our dear bet
 * (I) Updated the Game Help guide in accordance with the balance pass on the Air Brake.
 * (I) Added loading tips.
 * (I) Added the Twitter and Itch.io buttons in the main menu to bring you directly to Lava Golf's Twitter page and the Lava Golf's Itch.io page.
+* (I) Fixed a bug that would hide the cursor when the player cleanly enters the end portal without touching the borders.
 
 *Controls*
 * (I) You can now go back to the Main Menu at any point during the gameplay, with the ESC key (or the "START" button on your gamepad).
