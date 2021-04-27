@@ -11,9 +11,9 @@ As a reminder, you can access our Itch.io page for the game [here](https://artan
 
 ## Patch notes
 
-### Version 1.1 - Impeding Release:
+### Version 1.1 - 27/04/2021:
 
-This is the first patch for the Beta and includes the fixes some of our dear beta tester asked for. This version is still in development.
+This is the first patch for the Beta and includes the fixes some of our dear beta tester asked for!
 
 *Graphics*
 * (I) Added a small visual effect to celebrate the player when the End Portal is reached.
