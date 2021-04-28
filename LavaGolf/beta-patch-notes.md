@@ -70,6 +70,9 @@ This is the first patch for the Beta and includes the fixes some of our dear bet
 * The Rewind skill can now only be used while in the air.
 * Now the Air Brake is FAR more powerful. It also gives some grace period before applying gravity back. Using an Air Dash will instantly restore the proper drag and gravity values.
 
+*Known issues*
+* If you install the game in the default directory (inside "Program Files"), you won't be able to take screenshots unless you run the game as Administrator.
+
 ### Version 1.0 - 23/03/2021:
 
 First beta release!
