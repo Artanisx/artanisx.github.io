@@ -13,7 +13,7 @@ As a reminder, you can access our Itch.io page for the game [here](https://artan
 
 ### Version 1.15 - In development:
 
-This is the a minor patch for the Beta! Currently in development.
+This is a minor patch for the Beta! Currently in development.
 
 *Fixes and Changes*
 * (I) Changed the behaviour of the screenshots logic to avoid the known issue that would prevent the screenshots to be taken if you installed the game in the default directory (inside "Program Files") while not running the game as administrator. The screenshots will now be created inside Documents folder (My Games\Lava Golf\Screenshots), a more standard approach.
