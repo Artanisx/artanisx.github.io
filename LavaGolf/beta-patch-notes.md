@@ -11,6 +11,16 @@ As a reminder, you can access our Itch.io page for the game [here](https://artan
 
 ## Patch notes
 
+### Version 1.15 - In development:
+
+This is the a minor patch for the Beta! Currently in development.
+
+*Fixes and Changes*
+* (I) Changed the behaviour of the screenshots logic to avoid the known issue that would prevent the screenshots to be taken if you installed the game in the default directory (inside "Program Files") while not running the game as administrator. The screenshots will now be created inside Documents folder (My Games\Lava Golf\Screenshots), a more standard approach.
+* (I) It is now possible to take screenshots while in the main menu, in the victory screen, in the power up screen and in the game over screen (alongside all levels as usual).
+* (I) Taking a screenshot will now show a fading in & out text message as feedback a screenshot has been taken.
+* (I) Taking a screenshot will play a sound effect.
+
 ### Version 1.1 - 27/04/2021:
 
 This is the first patch for the Beta and includes the fixes some of our dear beta tester asked for!
