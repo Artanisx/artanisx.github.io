@@ -26,6 +26,8 @@ This is a minor patch for the Beta! Currently in development.
 * (I) Solved an issue with Emergency Jump skill that would make the next shot happen faster if used while grounded.
 * (I) Rewind skill can now be used again while grounded.
 * (I) Solved a collision problem with the Golf Tee when the Rewind skill was used.
+* (I) Fixed the UI element in the Game Over scene so that it reads "Course" rather than "Level".
+* (I) Fixed a bug in the the Game UI Rewind skill button, showing it as unavailable while grounded.
 
 ### Version 1.1 - 27/04/2021:
 
