@@ -8,8 +8,9 @@ permalink: /LavaGolf/
 
 Welcome to the official web page for Lava Golf! 
 
-You can access our Itch.io page for the game [here](https://artanisx.itch.io/lava-golf). From the Itch.io page you can download the game: click on **DOWNLOAD NOW**. You can download the game for free, if you click on *"No thanks, just take me to the downloads"*. If you want to show your appreciation for the game, you can use the formula "Pay what you want" and choose the amount you feel it's fair. 
-Aftgerwards, click on the red **DOWNLOAD** button and select the most recent installer.
+You can access our Itch.io page for the game [here](https://artanisx.itch.io/lava-golf). 
+From the Itch.io page you can download the game: click on **DOWNLOAD NOW**. You can download the game for free, just click on *"No thanks, just take me to the downloads"*. If you want to show your appreciation for the game, you can use the formula "Pay what you want" and choose the amount you feel it's fair. 
+Afterwards, click on the red **DOWNLOAD** button and select the most recent installer.
 
 ## The Game
 Dive into a new and unexpected take for golf games! In Lava Golf you do not control a golfer, instead you are the golf ball and your objective is to reach the end portal of each course without falling in the lava.
