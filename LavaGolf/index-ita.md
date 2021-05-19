@@ -6,9 +6,11 @@ permalink: /LavaGolf/italian/
 # Lava Golf
 <<Go to the English page [here](https://artanisx.github.io/LavaGolf)!>>
 
-Benvenuto alla pagina della Beta di Lava Golf! Dato che abbiamo appena aperto la beta, abbiamo pensato di creare una piccola pagina di benvenuto solo per te, contenente alcune istruzioni!
+Benvenuto alla pagina ufficiale di Lava Golf! 
 
-Per prima cosa, ricorda che puoi accedere alla pagina del gioco su Itch.io [qui](https://artanisx.itch.io/lava-golf). Dalla pagina Itch.io puoi scaricare il gioco: clicca su **DOWNLOAD NOW**, e clicca su *"No thanks, just take me to the downloads"* così da scaricarla gratuitamente. Quindi, clicca sul tasto **DOWNLOAD** rosso, sulla build più recente.
+Puoi accedere alla pagina del gioco su Itch.io [qui](https://artanisx.itch.io/lava-golf). 
+Dalla pagina Itch.io puoi scaricare il gioco: clicca su **DOWNLOAD NOW**. Puoi scaricarlo gratuitamente, basta cliccare su *"No thanks, just take me to the downloads"*. Se vuoi mostrare il tuo apprezzamento, puoi usare la formula "Paga ciò che vuoi" e scegliere la somma da versare.
+Quindi, clicca sul tasto **DOWNLOAD** rosso, sull'installer più recente.
 
 ## Il gioco
 Immergiti in un nuovo e inaspettato tipo di gioco sul golf! In Lava Golf non controlli il golfer, bensì la pallina stessa. Il tuo obiettivo è raggiungere il portale di fine livello senza finire nella lava.
@@ -17,23 +19,8 @@ Sblocca abilità uniche, attraversa gli anelli, e cosa più importante... NON CA
 
 <<*Nota: Il gioco è interamente in lingua inglese*>>
 
-## La Beta
-Dato che hai deciso di unirti alla beta (grazie!), vorremmo dirti come fare di te il beta tester perfetto :)
-Per prima cosa, gioca quanto ti pare! Non sentirti in obbligo di giocare, gioca quando hai del tempo e vuoi provare un po' il gioco, o se vuoi provare a superare il livello che la volta scorsa ti ha dato problemi. O se vuoi mostrare il gioco ai tuoi amici!
-
-Ciò che ci serve da te... è sapere cosa ne pensi, il tuo feedback, quale porzione del gioco ti è piaciuta, quale porzione invece non ti ha convinto, quale quella invece che proprio non ti è piaciuta! Il livello 2 è troppo chiaro? I controlli non sono intuitivi? Il livello 5 è decisamente troppo difficile? Le skill iniziali non sono abbastanza potenti? O lo sono pure troppo? I punti abilità sbloccati livellando dovrebbero essere di più? Di meno? Una delle abilità sbloccabili dovrebbe essere disponibile sin dall'inizio? Il gioco è davvero troppo difficile?! Queste sono alcune delle domande a cui puoi aiutarci a trovare una risposta! :)
-
-Puoi dirci ciò che pensi in diversi modi:
-* Diccelo di persona! Questa è una possibilità se ci siamo incontrati per provare il gioco!
-* Mandaci una mail [email](mailto: HeiLavaGolf@protonmail.com) con i tuoi pensieri e commenti. Puoi scriverci in Italiano o in Inglese.
-* Segui questo Google Form e inseriscici le tue risposte e commenti! Come detto, puoi scriveci sia in Italiano che in Inglese. [Google Form](https://forms.gle/teEji3LfL7kx22Gf8) 
-
-Ricorda che il tuo feedback ci aiuterà a definire il gioco e farci andare nella giusta direzione. È davvero utile, quindi assicurati di dirci cosa ne pensi con più dettagli che puoi.
-
-Inoltre, visto che sei un beta tester, hai accesso alla[Developer Console](https://artanisx.github.io/LavaGolf/developer-console)! Leggi la [guida](https://artanisx.github.io/LavaGolf/developer-console) per scoprire come usarla. 
-
 ## Come si gioca
-C'è una schermata *How To Play* nel gioco, ma parliamo un po' di come si gioca anche qui.
+C'è una schermata *How To Play* nel gioco, che include anche una video tutorial, ma parliamo un po' di come si gioca anche qui (considera che gli screen che seguono potrebbero non essere rappresentativi del prodotto finale).
 Per prima cosa, come forse saprai, lo scopo del gioco è raggiungere il Portale d'Uscita alla fine di ogni livello. Per attivare il portale, è imperativo che la pallina (quindi, tu!) attraversi TUTTI i Lava Ring della mappa. 
 
 ![UI image](https://artanisx.github.io/LavaGolf/images/Help.jpg)
@@ -69,6 +56,11 @@ Per concludere, dai un'occhiata a questo screenshot con ogni elemento dell'inter
 ![Game UI Help](https://artanisx.github.io/LavaGolf/images/GameHelpUI.png)
 
 ## Patch notes
-Dall'inizio della beta, abbiamo iniziato a scrivere e pubblicare le patch notes. Puoi leggere le patch notes della beta seguendo il link qui di seguito (in lingua inglese).
+Puoi leggere le patch notes di Lava Golf (e se sei curioso anche quelle della Beta) seguendo i link qui di seguito (in lingua inglese).
 
+ Leggi le [Lava Golf Patch Notes](https://artanisx.github.io/LavaGolf/release-patch-notes) qui.
  Leggi le [Beta Patch Notes](https://artanisx.github.io/LavaGolf/beta-patch-notes) qui.
+ 
+## Il tuo feedback
+Puoi contattarci su nostro [Twitter](https://twitter.com/GolfLava) per dirci cosa ne pensi del gioco!
+
