@@ -29,8 +29,8 @@ This is the official release for Lava Golf. The below changelog is against the l
 * Ground Dash base charges increased from 1 to 2.
 * Ground Dash level 4 charges increased from 4 to 5.
 * Ground Dash level 5 charges increased from 5 to 6.
-* Ground Dash level 4 strength drecreased from 18 to 17.
-* Ground Dash level 5 strength drecreased from 25 to 18.
+* Ground Dash level 4 strength decreased from 18 to 17.
+* Ground Dash level 5 strength decreased from 25 to 18.
 * Rewind level 4 charges increased from 2 to 3.
 * Rewind level 5 charges increased from 3 to 4.
 * Sphere Magnet base charges decreased from 3 to 1.
