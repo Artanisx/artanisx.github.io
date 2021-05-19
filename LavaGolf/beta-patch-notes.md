@@ -5,34 +5,12 @@ permalink: /LavaGolf/beta-patch-notes
 ---
 # Lava Golf - Beta Patch Notes
 
-In here the beta patch notes for Lava Golf!
+In this page you can have a look the Beta patch notes for Lava Golf!
 As a reminder, you can access our Itch.io page for the game [here](https://artanisx.itch.io/lava-golf).
-
 
 ## Patch notes
 
-### Version RC 1.0 - In development:
-
-This is a minor patch for the Beta! Currently in development.
-
-*Fixes and Changes*
-* (I) Changed the behaviour of the screenshots logic to avoid the known issue that would prevent the screenshots to be taken if you installed the game in the default directory (inside "Program Files") while not running the game as administrator. The screenshots will now be created inside Documents folder (My Games\Lava Golf\Screenshots), a more standard approach.
-* (I) It is now possible to take screenshots while in the main menu, in the victory screen, in the power up screen and in the game over screen (alongside all levels as usual).
-* (I) Taking a screenshot will play a sound effect.
-* (I) The screenshot sound effect won't be played by error at the beginning of each level.
-* (I) Fixed a bug that on rare occasion would make the cursor disappear.
-* (I) Quitting the Help Screen while in the Video Tutorial page won't fail to restore the original music volume level.
-* (I) Solved an issue with Emergency Jump skill that would make the next shot happen faster if used while grounded.
-* (I) Rewind skill can now be used again while grounded.
-* (I) Solved a collision problem with the Golf Tee when the Rewind skill was used.
-* (I) Fixed the UI element in the Game Over scene so that it reads "Course" rather than "Level".
-* (I) Fixed a bug in the the Game UI Rewind skill button, showing it as unavailable while grounded.
-* (I) Moved around some X Spheres around the levels so they are better placed in relation to their closest objects.
-
-*Balance Changes*
-* (I) Changes will be detailed soon.
-
-### Version 1.1 - 27/04/2021:
+### Version 1.1 - 27/04/2021 - Final Beta Release:
 
 This is the first patch for the Beta and includes the fixes some of our dear beta tester asked for!
 
