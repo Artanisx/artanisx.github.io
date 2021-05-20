@@ -24,6 +24,7 @@ This is the official release for Lava Golf. The below changelog is against the l
 
 *UI*
 * Improved font visibility in the game UI hotbars.
+* Fixed a mistake in the Rewind abilityu description in the Game Help page.
 
 *Balance Changes*
 * Air Brake level 4 charges increased from 4 to 5. 
