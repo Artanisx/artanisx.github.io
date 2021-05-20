@@ -15,6 +15,16 @@ You can also have a look at the now archived [Beta Patch Notes](https://artanisx
 
 This is the official release for Lava Golf. The below changelog is against the last Beta release. It also sport a big balance pass on most skills and related power ups.
 
+*Controls*
+* AirBrake is now activated with the Left Control key.
+* Air Dash and Ground Dash are now both activated with the Spacebar key.
+* Emergency Jump is now activated with the E key.
+* Time Freeze is now activated with the D key.
+* Sphere Magnet is now activated with the F key.
+
+*UI*
+* Improved font visibility in the game UI hotbars.
+
 *Balance Changes*
 * Air Brake level 4 charges increased from 4 to 5. 
 * Air Brake level 5 charges increased from 5 to 6.
@@ -58,6 +68,7 @@ This is the official release for Lava Golf. The below changelog is against the l
 * Fixed the UI element in the Game Over scene so that it reads "Course" rather than "Level".
 * Fixed a bug in the the Game UI Rewind skill button, showing it as unavailable while grounded.
 * Moved around some X Spheres around the levels so they are better placed in relation to their closest objects.
+* Fixed a bug that occorred after an Emergency Jump was taken while on the ground.
 
 *Known issues*
 
