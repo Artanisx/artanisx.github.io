@@ -15,6 +15,7 @@ Afterwards, click on the red **DOWNLOAD** button and select the most recent inst
 ## The Game
 
 [![Official Launch Trailer](https://img.youtube.com/vi/4W2vSAgpPUw/0.jpg)](https://www.youtube.com/watch?v=4W2vSAgpPUw)
+
 *Official Launch Trailer, click on the image above to watch it!*
 
 Dive into a new and unexpected take for golf games! In Lava Golf you do not control a golfer, instead you are the golf ball and your objective is to reach the end portal of each course without falling in the lava.
