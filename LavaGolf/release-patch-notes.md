@@ -72,6 +72,7 @@ This is the official release for Lava Golf. The below changelog is against the l
 * Fixed a bug that occorred after an Emergency Jump was taken while on the ground.
 
 *Known issues*
+* Exiting the game won't properly save the sound and music volume settings.
 
 
 ## Links
