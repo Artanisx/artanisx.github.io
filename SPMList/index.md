@@ -56,7 +56,7 @@ Below you can find a list of released projects I have managed or assisted in my 
 
 # List of Released Projects I Worked as QA Localization Tester (2011-2012 - 2005)
 Below you can find a list of released projects I have tested in my capacity of **QA Localization Tester** at **Synthesis Group SGS** and at **Electronic Arts** 
-- [**World of Warcraft** (Blizzard Entertainment, 2012)](https://en.wikipedia.org/wiki/World_of_warcraft))
+- [**World of Warcraft** (Blizzard Entertainment, 2012)](https://en.wikipedia.org/wiki/World_of_warcraft)
 - [**Burnout Paradise** (Criterion Games, 2008)](https://en.wikipedia.org/wiki/Burnout_Paradise)
 - [**Boogie** (EA Montreal, 2007)](https://en.wikipedia.org/wiki/Boogie_(video_game))
 - [**The Simpsons - The Game** (Electronic Arts, 2007)](https://en.wikipedia.org/wiki/The_Simpsons_Game)
