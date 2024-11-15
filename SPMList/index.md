@@ -3,7 +3,7 @@ layout: default
 title: "Project List of Managed Titles"
 permalink: /SPMList/
 ---
-# List of Released Projects I Managed
+# List of Released Projects I Managed as Senior Project Manager (2012-2024)
 
 Below you can find a list of released projects I have managed or assisted in my capacity of **Senior Project Manager** at **Keywords Studios**. Some titles are not present due to NDAs, or for brevity:
 
@@ -52,7 +52,16 @@ Below you can find a list of released projects I have managed or assisted in my 
 - [**Dishonored DLCs** (Bethesda Softworks, 2012-2013)](https://en.wikipedia.org/wiki/Dishonored#DLC)  
 - [**Dishonored** (Bethesda Softworks, 2012)](https://en.wikipedia.org/wiki/Dishonored)  
 - [**Naruto Trilogy** (Bandai Namco, 2012)](https://en.wikipedia.org/wiki/Naruto:_The_Complete_Collection)  
-- [**Skyrim DLCs** (Bethesda Softworks, 2011-2013)](https://en.wikipedia.org/wiki/The_Elder_Scrolls_V:_Skyrim#Downloadable_content) 
+- [**Skyrim DLCs** (Bethesda Softworks, 2011-2013)](https://en.wikipedia.org/wiki/The_Elder_Scrolls_V:_Skyrim#Downloadable_content)
+
+# List of Released Projects I Worked as QA Localization Tester (2011-2012 - 2005)
+Below you can find a list of released projects I have tested in my capacity of **QA Localization Tester** at **Synthesis Group SGS** and at **Electronic Arts** 
+- [**World of Warcraft** (Blizzard Entertainment, 2012)](https://en.wikipedia.org/wiki/World_of_warcraft))
+- [**Burnout Paradise** (Criterion Games, 2008)](https://en.wikipedia.org/wiki/Burnout_Paradise)
+- [**Boogie** (EA Montreal, 2007)](https://en.wikipedia.org/wiki/Boogie_(video_game))
+- [**The Simpsons - The Game** (Electronic Arts, 2007)](https://en.wikipedia.org/wiki/The_Simpsons_Game)
+- [**Medal of Honor** (Electronic Arts, 2007)](https://en.wikipedia.org/wiki/Medal_of_Honor:_Vanguard)
+
 
 You can check [My LinkedIn Page](https://www.linkedin.com/in/fabriziotobia) for more details. You can also reach my [MobyGames](https://www.mobygames.com/person/361560/fabrizio-tobia/credits/) page and my [IMDb page](https://www.imdb.com/name/nm8703380/) to find some more details on a limited subset of them.
 
