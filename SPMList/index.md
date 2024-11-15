@@ -5,7 +5,7 @@ permalink: /SPMList/
 ---
 # List of Released Projects I Managed
 
-Below you can find a list of released projects I have managed in my capacity of Senior Project Manager at Keywords Studios. Some titles are not present due to NDAs:
+Below you can find a list of released projects I have managed in my capacity of **Senior Project Manager** at **Keywords Studios**. Some titles are not present due to NDAs, or for brevity:
 
 - [**Dragon Ball Z: Sparking! Zero** (Bandai Namco, 2024)](https://en.wikipedia.org/wiki/Dragon_Ball_Z:_Sparking!_ZERO)  
 - [**Final Fantasy XVI** (Square Enix, 2023)](https://en.wikipedia.org/wiki/Final_Fantasy_XVI)  
@@ -49,5 +49,6 @@ Below you can find a list of released projects I have managed in my capacity of 
 - [**Naruto Trilogy** (Bandai Namco, 2012)](https://en.wikipedia.org/wiki/Naruto:_The_Complete_Collection)  
 - [**Skyrim DLCs** (Bethesda Softworks, 2011-2013)](https://en.wikipedia.org/wiki/The_Elder_Scrolls_V:_Skyrim#Downloadable_content) 
 
+You can check [My LinkedIn Page](https://www.linkedin.com/in/fabriziotobia) for more details. You can also reach my [MobyGames](https://www.mobygames.com/person/361560/fabrizio-tobia/credits/) page and my [IMDb page](https://www.imdb.com/name/nm8703380/) to find some more details on a limited subset of them.
 
-
+You can reach for professional related inquiries via [e-mail](mailto:work@fabriziotobia.it).
